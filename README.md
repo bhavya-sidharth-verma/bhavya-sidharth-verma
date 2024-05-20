@@ -1,7 +1,4 @@
-<div align="center">
-  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2sya2xkNGZtanUydmZlaTA3bDIxbnV3OHlqd3k1bTF0d2dkaTI2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z5S7XSVhD1wkpay6gK/giphy.gif" width="25%"/>
-</div>
-<br>
+
 <br>
 <div id="header" align="center">
   <img src="https://media0.giphy.com/media/v1.Y2lkPTc5MGI3NjExcTV4bGx6dmcxYmdqdjRkd2pvbjUxeTBxZms1MnhiaWtvY3JjeXZsYyZlcD12MV9naWZzX3NlYXJjaCZjdD1n/2IudUHdI075HL02Pkk/200.webp" width="50"/>
@@ -79,6 +76,11 @@ Hey There! Am Bhavya Sidharth Verma👋🏻
 
 <h1 align="center">Get in Touch</h1>
 <div id="badges" align="center">
+
+<div align="center">
+  <img src="https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExb2sya2xkNGZtanUydmZlaTA3bDIxbnV3OHlqd3k1bTF0d2dkaTI2MCZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/Z5S7XSVhD1wkpay6gK/giphy.gif" width="25%"/>
+</div>
+<br>
   
 [![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/bhavya-sidharth-verma-59b07121a/?utm_source=share&utm_campaign=share_via&utm_content=profile&utm_medium=android_app)
 [![Instagram](https://img.shields.io/badge/instagram-%23E4405F.svg?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/__kadota__sid__/)
