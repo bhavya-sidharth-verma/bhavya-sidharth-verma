@@ -1,5 +1,3 @@
-
-
 <p>
   <a href="C:\Users\bhavy\OneDrive\Pictures\Camera Roll\Bhavya_Sidharth_Verma LT.png"></a>
 </p>
