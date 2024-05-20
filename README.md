@@ -38,41 +38,6 @@ am familiar with including **JavaScript**, **TypeScript**, **ReactJS**, and
 
 You can support me and [buy me a coffee][8], if you want. 🙏🏻
 
-## 📕 Latest Blog Posts
-
-<!-- BLOG-POST-LIST:START -->
-- [Start Over Again and Unmute All Twitter Users.](https://blog.natterstefan.me/start-over-again-and-unmute-all-twitter-users)
-- [How to Use Multiple Node Version With asdf.](https://blog.natterstefan.me/how-to-use-multiple-node-version-with-asdf)
-- [Git: Automatically Lint Your Code or Run Tests on `git push` with Git Hooks](https://blog.natterstefan.me/git-automatically-lint-your-code-or-run-tests-on-git-push-with-git-hooks)
-- [How to Dockerize a NextJS application](https://blog.natterstefan.me/how-to-dockerize-a-nextjs-application)
-- [My Favorite Visual Studio Code Extensions - Part I](https://blog.natterstefan.me/my-favorite-visual-studio-code-extensions-part-i)
-<!-- BLOG-POST-LIST:END -->
-
-➡️ [more blog posts...](https://blog.natterstefan.me)
-
-## 📺 Latest YouTube Videos
-
-![YouTube Channel Subscribers](https://img.shields.io/youtube/channel/subscribers/UCaKtbjfNtWRulKg6VlYd8kw?label=YouTube%20Subscribers&style=social)
-
-<!-- YOUTUBE-VIDEOS-LIST:START -->
-- [Setup nodemon in a Docker and TypeScript App | Social Data Dashboard | With Francesco Ciulla](https://www.youtube.com/watch?v=Fw5-8OJ6Qy8)
-- [Grafana Dashboard with Node-Cron | Social Data Dashboard | With Francesco Ciulla](https://www.youtube.com/watch?v=ESXUT9dGM60)
-- [How to use rtk-query in a Next.js app](https://www.youtube.com/watch?v=GRhnLRbRCvM)
-- [How to Create a Resume with Tailwind and Nextjs - Part 2](https://www.youtube.com/watch?v=pRXjx1UmYyU)
-- [How to Create a Resume with TailwindUI and Next.js - PART 1](https://www.youtube.com/watch?v=YA1hzqfv2i8)
-<!-- YOUTUBE-VIDEOS-LIST:END -->
-
-➡️ [more videos...](https://youtube.com/natterstefan)
-
-## :zap: Recent Activity
-
-<!--START_SECTION:activity-->
-1. 🎉 Merged PR [#8](https://github.com/natterstefan/plop-action-eslint/pull/8) in [natterstefan/plop-action-eslint](https://github.com/natterstefan/plop-action-eslint)
-2. 💪 Opened PR [#8](https://github.com/natterstefan/plop-action-eslint/pull/8) in [natterstefan/plop-action-eslint](https://github.com/natterstefan/plop-action-eslint)
-3. 🎉 Merged PR [#7](https://github.com/natterstefan/plop-action-eslint/pull/7) in [natterstefan/plop-action-eslint](https://github.com/natterstefan/plop-action-eslint)
-4. 🗣 Commented on [#7](https://github.com/natterstefan/plop-action-eslint/issues/7) in [natterstefan/plop-action-eslint](https://github.com/natterstefan/plop-action-eslint)
-5. 🗣 Commented on [#452](https://github.com/HubSpot/hubspot-api-nodejs/issues/452) in [HubSpot/hubspot-api-nodejs](https://github.com/HubSpot/hubspot-api-nodejs)
-<!--END_SECTION:activity-->
 
 ## &#x1f4c8; My GitHub Stats
 
@@ -84,16 +49,4 @@ You can support me and [buy me a coffee][8], if you want. 🙏🏻
   <img align="center" src="https://github-readme-stats.vercel.app/api?username=natterstefan&show_icons=true&line_height=27&count_private=true&title_color=000000&text_color=000000&icon_color=FAC051" alt="natterstefan's GitHub Stats" />
 </a>
 
-[1]:
-  https://natterstefan.me/?utm_source=github.com&utm_medium=gh-profile-natterstefan&utm_campaign=natterstefan
-[2]: https://www.linkedin.com/in/natterstefan
-[3]: https://twitter.com/intent/follow?screen_name=natterstefan
-[4]: https://blog.natterstefan.me
-[5]:
-  https://newsletter.natterstefan.me?utm_source=github.com&utm_medium=gh-profile-natterstefan&utm_campaign=natterstefan
-[6]: https://medium.com/@natterstefan
-[7]: https://hashnode.com/@natterstefan
-[8]: https://nttr.st/2QoQhEb
-[9]: https://nttr.st/2YEatXb
-[10]: https://dev.to/natterstefan
-[11]: https://www.youtube.com/natterstefan?sub_confirmation=1
+
