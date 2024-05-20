@@ -1,5 +1,5 @@
 <div align="center">
-  <img src="https://giphy.com/gifs/scaler-official-tech-pro-keyboard-Dk57URqjqjHjNGHeMV/fullscreen" width="100%"/>
+  <img src="C:\Users\bhavy\Downloads\giphy.gif" width="100%"/>
 </div>
 <br>
 <br>
