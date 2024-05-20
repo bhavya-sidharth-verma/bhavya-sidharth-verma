@@ -101,7 +101,7 @@ Hey There! Am Bhavya Sidharth Verma👋🏻
 <br>
 
 <p align="right">
-⭐️ From <a href="https://github.com/souravcodes1080">souravcodes1080</a>
+⭐️ From <a href="https://github.com/bhavya-sidharth-verma">Bhavya Sidharth Verma</a>
 </p>
 
 
