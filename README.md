@@ -12,7 +12,7 @@
   <a href="https://www.linkedin.com/in/bhavya-sidharth-verma-59b07121a/">
     <img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn Badge"/>
   </a>
-  <a href="https://sourav-c-portfolio.netlify.app">
+  <a href="https://bhavyasidharthverma.me/">
     <img src="https://img.shields.io/badge/Portfolio-red?style=for-the-badge&logo=npm&logoColor=white" alt="Youtube Badge"/>
   </a>
   <a href="https://www.instagram.com/__kadota__sid__/">
