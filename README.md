@@ -1,7 +1,7 @@
-# [![waylon walker header](https://raw.githubusercontent.com/WaylonWalker/WaylonWalker/main/icon/gh-bannner-light.png)](https://waylonwalker.com)
+
 
 <p>
-  <a href="https://waylonwalker.com/latest-story.png"><img width="150" align='right' src="https://waylonwalker.com/latest-story.png"></a>
+  <a href="C:\Users\bhavy\OneDrive\Pictures\Camera Roll\Bhavya_Sidharth_Verma LT.png"></a>
 </p>
 
 <p align='center'>
