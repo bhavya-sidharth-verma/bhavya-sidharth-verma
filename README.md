@@ -1,10 +1,10 @@
 <div align="center">
-  <img src="C:\Users\bhavy\OneDrive\Pictures\Camera Roll\IMG_20230413_235658_054.jpg" width="100%"/>
+  <img src="https://giphy.com/gifs/scaler-official-tech-pro-keyboard-Dk57URqjqjHjNGHeMV/fullscreen" width="100%"/>
 </div>
 <br>
 <br>
 <div id="header" align="center">
-  <img src="https://giphy.com/gifs/scaler-official-tech-pro-keyboard-Dk57URqjqjHjNGHeMV/fullscreen" width="100"/>
+  <img src="" width="100"/>
 </div>
 <br>
 
