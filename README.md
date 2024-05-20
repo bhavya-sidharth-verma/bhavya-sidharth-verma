@@ -4,7 +4,7 @@
 <br>
 <br>
 <div id="header" align="center">
-  <img src="" width="100"/>
+  <img src="" width="50"/>
 </div>
 <br>
 
