@@ -4,7 +4,7 @@
 <br>
 <br>
 <div id="header" align="center">
-  <img src="" width="50"/>
+  <img src="blob:https://giphy.com/252b4d0f-12c4-42e9-9fa7-98ad32022ecc" width="50"/>
 </div>
 <br>
 
