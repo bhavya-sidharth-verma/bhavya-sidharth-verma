@@ -115,7 +115,7 @@ Data and Analytics Leader @IBM | Minnesota State Alum | #Technologist | #Investo
  <p/>
 <div align="center">
 	<br>
-	<a href="https://raw.githubusercontent.com/WaylonWalker/waylonwalker/main/follower.svg">
+	<a href="C:\Users\bhavy\OneDrive\Pictures\Camera Roll\Bhavya_Sidharth_Verma LT.png">
 		<img src="follower.svg" width="800" height="140">
 	</a>
 </div>
