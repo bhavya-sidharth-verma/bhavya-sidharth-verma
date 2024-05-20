@@ -22,8 +22,8 @@
 </div>
 <div align="center">
 
-![GitHub Stars](https://img.shields.io/github/stars/souravcodes1080?style=social)
-![GitHub Followers](https://img.shields.io/github/followers/souravcodes1080?style=social)
+![GitHub Stars](https://img.shields.io/github/stars/bhavya-sidharth-verma?style=social)
+![GitHub Followers](https://img.shields.io/github/followers/bhavya-sidharth-verma?style=social)
 </div>
 
 <h1 align="center">
